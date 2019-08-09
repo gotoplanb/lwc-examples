@@ -5,5 +5,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "eslint.nodePath": "/Users/dstanton/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-46.8.0/node_modules"
+  "eslint.nodePath": "/Users/dstanton/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-46.9.0/node_modules",
+  "salesforcedx-vscode-core.show-cli-success-msg": false
 }
